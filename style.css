@@ -1,0 +1,99 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+.header {
+	font-size: 20px;
+	text-align: center;
+	margin-top: 20px;
+	font-family: cursive , sans-serif;
+}
+.header span{
+	color: #fb7813;
+}
+
+#array {
+	background-color: rgb(255, 255, 255);
+	height: 413px;
+	width: 710px;
+	margin:auto;
+	position: relative;
+	margin-top: 25px;
+	text-align: center;
+	border: 2px solid #151c36;
+	padding: 10px 60px ;
+	border-radius: 15px;
+	
+}
+
+.block {
+	width:28px;
+	background-color: #151c36;
+	position: absolute;
+	bottom: 0px;
+	transition: 0.2s all ease;
+   
+}
+
+.block_id {
+	position: absolute;
+	color:#151c36;
+	margin-top: -20px;
+	width: 100%;
+	text-align: center;
+	align-content:center;
+	margin-left: -14px;
+	font-size: large;
+}
+
+.container{
+	margin-top: 60px;
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	
+	
+}
+
+button {
+	transition-duration: 0.4s;
+	background-color: white;
+    border-radius: 10px;
+	height:40px;	
+	width: 100px;
+	margin-right: 20px;
+	border-color: #151c36;
+	font-family:cursive , sans-serif ;
+	font-size: 16px;
+  }
+  
+button:hover {
+	background-color: #fb7813; 
+	color: white;
+  }
+  
+ .slider{
+     margin-top: 10px;
+
+  }
+
+  .slider input {
+    width: 150px;
+	height: 2px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+
+  }
+
+  .slider p {
+	font-size: 16px;
+	font-family: Open Sans;
+	color: #151c36;
+	font-family:  cursive , sans-serif  ;
+	
+	}
+	
+	
