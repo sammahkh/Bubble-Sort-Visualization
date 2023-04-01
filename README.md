@@ -15,7 +15,7 @@
 
 ## Contributing
 
-Contributions are always welcome! [here](https://github.com/sammahkh/Living-the-Simple-Life/blob/master/CONTRIBUTING.md)
+Contributions are always welcome! [here](https://github.com/sammahkh/Bubble-Sort-Visualization/blob/157c62417b8e61d6a540ed9e6bbc464d4cda5abc/CONTRIBUTING.md)
 
 
 ## Instructions
